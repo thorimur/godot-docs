@@ -120,8 +120,9 @@ information:
 
    Also, please don't take a picture with your phone, the low quality and screen
    reflections can make it hard to understand the image. Your operating system
-   should have a built-in tool to take screenshots with the :kbd:`PrtSc` (Print
-   Screen) key.
+   should have a built-in tool to take screenshots, such as the Snipping Tool that
+   comes with Windows (:kbd:`Windows Key`+:kbd:`Shift`+:kbd:`S`) or the Screenshot
+   app that comes with macOS (:kbd:`⌘`+:kbd:`Shift`+:kbd:`4`).
 
    Alternatively, you can use a program like `ShareX <https://getsharex.com/>`_
    on Windows or `FlameShot <https://flameshot.org/>`_ on Linux.
